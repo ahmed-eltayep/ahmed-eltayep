@@ -1,161 +1,65 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ahmed Mohamed Altayep - Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #2E3440;
-            color: #D8DEE9;
-            text-align: center;
-            margin: 0;
-            padding: 20px;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            padding: 20px;
-        }
-        h1, h2 {
-            color: #88C0D0;
-        }
-        .badges img, .stats img {
-            margin: 5px;
-            max-width: 100%;
-        }
-        .code-block {
-            background-color: #3B4252;
-            padding: 15px;
-            border-radius: 5px;
-            text-align: left;
-            font-family: 'Courier New', Courier, monospace;
-            color: #ECEFF4;
-        }
-        .links a {
-            margin: 0 10px;
-            text-decoration: none;
-        }
-        .section {
-            margin: 30px 0;
-        }
-        hr {
-            border: 1px solid #4C566A;
-        }
-        details {
-            margin: 20px 0;
-        }
-        summary {
-            cursor: pointer;
-            color: #88C0D0;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Hey, I'm Ahmed Mohamed Altayep! 👋</h1>
+<div align="center" width="50">
 
-        <div class="section">
-            <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"><br>
-            <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-            <details>
-                <summary>Currently Vibing to 🎶</summary>
-                <a href="https://open.spotify.com/user/somnathpaul">
-                    <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify">
-                </a>
-            </details>
+# Ahmed Mohamed Al-tayep
 
-            <div class="badges">
-                <img src="https://komarev.com/ghpvc/?username=AhmedAltayep&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile Views">
-                <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhmedAltayep&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false" alt="Hits">
-                <a href="https://linkedin.com/in/ahmed-altayep-61126b346">
-                    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-                </a>
-                <a href="https://www.upwork.com/freelancers/~0132306dbecb5b247e?mp_source=share">
-                    <img src="https://img.shields.io/badge/Upwork-%2314A800.svg?style=flat&logo=upwork&logoColor=white" alt="Upwork">
-                </a>
-                <a href="https://wa.me/01028516047">
-                    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp">
-                </a>
-            </div>
-        </div>
+![Profile Views](https://komarev.com/ghpvc/?username=ahmed-eltayep&style=flat&color=orange&label=PROFILE+VIEWS)
+[![telegram badge](https://img.shields.io/badge/Ahmed%20Mohamed-grey?style=flat&logo=telegram)](https://t.me/+201028516047)
+[![whatsapp badge](https://img.shields.io/badge/Ahmed%20Mohamed-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201028516047) <br>
+</div>
 
-        <hr>
+<hr></hr>
 
-        <div class="section">
-            <h2>🚀 About Me</h2>
-            <p>I'm a self-taught coder passionate about <strong>Web Scraping</strong> and building projects to master new tech. I love diving into <strong>GNU/Linux</strong>, building PCs, going on adventures, and gaming. Currently, I'm sharpening my skills by working on diverse projects across platforms to learn cutting-edge techniques.</p>
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=flat&logo=gnome-terminal&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-            <h3>🖥️ Tech Stack</h3>
-            <div class="badges">
-                <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen" alt="Python">
-                <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium">
-                <img src="https://img.shields.io/badge/BeautifulSoup-000000?style=flat&logo=python&logoColor=white" alt="BeautifulSoup">
-                <img src="https://img.shields.io/badge/Requests-000000?style=flat&logo=python&logoColor=white" alt="Requests">
-                <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
-                <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
-                <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
-                <img src="https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white" alt="JSON">
-                <img src="https://img.shields.io/badge/Regex-000000?style=flat&logo=regex&logoColor=white" alt="Regex">
-                <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
-                <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
-                <img src="https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white" alt="Git">
-            </div>
+```python
+# My Specialization
 
-            <h3>🛠️ Tools I Use</h3>
-            <div class="code-block">
-                <pre><code>
-class Ahmed:
+class Ahmed_Al_tayep:
     def __init__(self):
+        self.name = "Ahmed Mohamed Al-tayep"
+        self.specialization = "Web Scraping & Browser Automation"
+        
         self.skills = {
-            "Programming": ["Python", "HTML", "JSON", "Regex"],
-            "WebScraping": ["Selenium", "BeautifulSoup", "Requests", "Requests-HTML"],
-            "DataAnalysis": ["Pandas", "NumPy", "CSV"],
-            "APIs": ["REST APIs"],
-            "Tools": ["VSCode", "Git", "Linux"]
+            "core_language": "Python",
+            "web_scraping": ["requests", "requests-html", "beautifulsoup4"],
+            "automation": ["selenium", "playwright"],
+            "data_processing": ["pandas", "numpy", "json", "csv"],
+            "web_technologies": ["html", "css"],
+            "system": ["linux", "terminal", "os", "sys"],
+            "development": ["vscode", "venv", "chrome_devtools"],
+            "parsing": ["re", "json"],
+            "apis": ["requests", "json"]
         }
-        self.interests = ["GNU/Linux", "PC Building", "Adventures", "Gaming"]
-                </code></pre>
-            </div>
+        
+        self.current_focus = "Web Scraping Projects on Various Websites"
+        self.goal = "Learning Advanced Techniques & Gaining More Experience"
+```
 
-            <p>🌱 <strong>Currently Learning</strong>: Advanced Web Scraping techniques and exploring new project ideas.</p>
-            <p>🐧 <strong>Fun Fact</strong>: I’m a GNU/Linux enthusiast who loves tweaking systems and building PCs from scratch.</p>
-            <p>📩 <strong>Ask Me About</strong>: Web Scraping, PC building, gaming, or epic adventure stories!</p>
-            <p>📞 <strong>Reach Me</strong>: 
-                <a href="https://wa.me/01028516047">WhatsApp</a> | 
-                <a href="https://linkedin.com/in/ahmed-altayep-61126b346">LinkedIn</a> | 
-                <a href="https://www.upwork.com/freelancers/~0132306dbecb5b247e?mp_source=share">Upwork</a>
-            </p>
-        </div>
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently working on **Web Scraping Projects** to learn more techniques and gain experience. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I specialize in **Web Scraping & Browser Automation** using Python. <br>
+- 🎮 &nbsp;&nbsp; I love **Gaming, PC Building & Technology**. <br>
+- 🏕️ &nbsp;&nbsp; I enjoy **Camping & Survival Adventures**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Web Scraping, Automation, PC Building, or Gaming**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on: **[Telegram](https://t.me/+201028516047)** | **[WhatsApp](https://wa.me/201028516047)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Web scraping can collect data **1000x faster** than manual copying!<br>
 
-        <hr>
 
-        <div class="section">
-            <h2>📊 My Stats</h2>
-            <div class="stats">
-                <a href="https://github.com/AhmedAltayep">
-                    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-                    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-                    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-                </a>
-            </div>
-            <details>
-                <summary>More Stats</summary>
-                <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="More Stats">
-            </details>
-        </div>
+<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
 
-        <hr>
-
-        <div class="section">
-            <h2>💻 Code Cycle</h2>
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!">
-        </div>
-    </div>
-</body>
-</html>
+</div>
