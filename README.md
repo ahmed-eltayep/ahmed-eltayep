@@ -1,64 +1,161 @@
-<h1 align="center">Hi there 👋, I'm Ahmed Mohamed Al-tayep</h1>
-<h3 align="center">Python Developer | Web Scraper | Automation Enthusiast</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ahmed Mohamed Altayep - Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #2E3440;
+            color: #D8DEE9;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #88C0D0;
+        }
+        .badges img, .stats img {
+            margin: 5px;
+            max-width: 100%;
+        }
+        .code-block {
+            background-color: #3B4252;
+            padding: 15px;
+            border-radius: 5px;
+            text-align: left;
+            font-family: 'Courier New', Courier, monospace;
+            color: #ECEFF4;
+        }
+        .links a {
+            margin: 0 10px;
+            text-decoration: none;
+        }
+        .section {
+            margin: 30px 0;
+        }
+        hr {
+            border: 1px solid #4C566A;
+        }
+        details {
+            margin: 20px 0;
+        }
+        summary {
+            cursor: pointer;
+            color: #88C0D0;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hey, I'm Ahmed Mohamed Altayep! 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+automating+the+web.;Let%27s+scrape+some+data!+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+        <div class="section">
+            <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"><br>
+            <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"><br>
 
----
+            <details>
+                <summary>Currently Vibing to 🎶</summary>
+                <a href="https://open.spotify.com/user/somnathpaul">
+                    <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify">
+                </a>
+            </details>
 
-## 🧠 About Me
+            <div class="badges">
+                <img src="https://komarev.com/ghpvc/?username=AhmedAltayep&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile Views">
+                <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhmedAltayep&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false" alt="Hits">
+                <a href="https://linkedin.com/in/ahmed-altayep-61126b346">
+                    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+                </a>
+                <a href="https://www.upwork.com/freelancers/~0132306dbecb5b247e?mp_source=share">
+                    <img src="https://img.shields.io/badge/Upwork-%2314A800.svg?style=flat&logo=upwork&logoColor=white" alt="Upwork">
+                </a>
+                <a href="https://wa.me/01028516047">
+                    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp">
+                </a>
+            </div>
+        </div>
 
-I'm a Python developer specialized in web scraping and browser automation. Over the past 3 years, I’ve mastered powerful tools such as Playwright, Selenium, BeautifulSoup, Requests, and more to extract valuable data from some of the most complex and dynamic websites on the internet.
+        <hr>
 
-My experience spans scraping platforms like **Amazon, Facebook, Twitter, YouTube, LinkedIn, Pinterest, Instagram, eBay, Google Maps**, and many more.
+        <div class="section">
+            <h2>🚀 About Me</h2>
+            <p>I'm a self-taught coder passionate about <strong>Web Scraping</strong> and building projects to master new tech. I love diving into <strong>GNU/Linux</strong>, building PCs, going on adventures, and gaming. Currently, I'm sharpening my skills by working on diverse projects across platforms to learn cutting-edge techniques.</p>
 
-I enjoy solving hard scraping problems, reverse-engineering site structures, and building reliable and maintainable scraping pipelines.
+            <h3>🖥️ Tech Stack</h3>
+            <div class="badges">
+                <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen" alt="Python">
+                <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium">
+                <img src="https://img.shields.io/badge/BeautifulSoup-000000?style=flat&logo=python&logoColor=white" alt="BeautifulSoup">
+                <img src="https://img.shields.io/badge/Requests-000000?style=flat&logo=python&logoColor=white" alt="Requests">
+                <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+                <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+                <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
+                <img src="https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white" alt="JSON">
+                <img src="https://img.shields.io/badge/Regex-000000?style=flat&logo=regex&logoColor=white" alt="Regex">
+                <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+                <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
+                <img src="https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white" alt="Git">
+            </div>
 
----
+            <h3>🛠️ Tools I Use</h3>
+            <div class="code-block">
+                <pre><code>
+class Ahmed:
+    def __init__(self):
+        self.skills = {
+            "Programming": ["Python", "HTML", "JSON", "Regex"],
+            "WebScraping": ["Selenium", "BeautifulSoup", "Requests", "Requests-HTML"],
+            "DataAnalysis": ["Pandas", "NumPy", "CSV"],
+            "APIs": ["REST APIs"],
+            "Tools": ["VSCode", "Git", "Linux"]
+        }
+        self.interests = ["GNU/Linux", "PC Building", "Adventures", "Gaming"]
+                </code></pre>
+            </div>
 
-## 🧰 My Toolbox
+            <p>🌱 <strong>Currently Learning</strong>: Advanced Web Scraping techniques and exploring new project ideas.</p>
+            <p>🐧 <strong>Fun Fact</strong>: I’m a GNU/Linux enthusiast who loves tweaking systems and building PCs from scratch.</p>
+            <p>📩 <strong>Ask Me About</strong>: Web Scraping, PC building, gaming, or epic adventure stories!</p>
+            <p>📞 <strong>Reach Me</strong>: 
+                <a href="https://wa.me/01028516047">WhatsApp</a> | 
+                <a href="https://linkedin.com/in/ahmed-altayep-61126b346">LinkedIn</a> | 
+                <a href="https://www.upwork.com/freelancers/~0132306dbecb5b247e?mp_source=share">Upwork</a>
+            </p>
+        </div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,linux,vscode,github,git" />
-</p>
+        <hr>
 
-- 💻 **Languages:** Python, HTML, JavaScript (basic understanding)
-- 🕷️ **Web Scraping Libraries:** BeautifulSoup, Requests, Requests-HTML, Selenium, Playwright, Scrapy (under learning)
-- 🌐 **Techniques:** Handling APIs, dealing with iframes, bypassing protections, analyzing XHR requests
-- ⚙️ **Other Tools:** Pandas, JSON, Regex, Excel, PDF scraping
-- 🧪 **Debugging Tools:** Browser DevTools, Postman
+        <div class="section">
+            <h2>📊 My Stats</h2>
+            <div class="stats">
+                <a href="https://github.com/AhmedAltayep">
+                    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+                    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+                    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+                </a>
+            </div>
+            <details>
+                <summary>More Stats</summary>
+                <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="More Stats">
+            </details>
+        </div>
 
----
+        <hr>
 
-## 📫 Connect With Me
-
-- 🌐 [LinkedIn](https://linkedin.com/in/ahmed-altayep-61126b346)
-- 💼 [Upwork Profile](https://www.upwork.com/freelancers/~0132306dbecb5b247e?mp_source=share)
-- 📱 WhatsApp: +20 102 851 6047
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedXD&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedXD&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔁 GitHub Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmedXD&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🧠 Wisdom of the Day
-
-> **"Success doesn't come from what you do occasionally. It comes from what you do consistently."**
-
----
-
+        <div class="section">
+            <h2>💻 Code Cycle</h2>
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!">
+        </div>
+    </div>
+</body>
+</html>
